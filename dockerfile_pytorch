@@ -27,7 +27,11 @@ RUN APT_INSTALL="apt-get install -y --no-install-recommends" && \
         wget \
         git \
         vim \
+        htop \
+        tmux \
         libssl-dev \
+        openssh-client \
+        openssh-server \
         curl \
         unzip \
         unrar \
